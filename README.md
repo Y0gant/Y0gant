@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio website<br>👯 I’m looking to collaborate on Java Projects<br>🤝 I’m looking for help with Backend & APIs<br>🌱 I’m currently learning Java<br>💬 Ask me about Techs<br>
+🔭 I’m currently working on <br>👯 I’m looking to collaborate on Java Projects<br>🤝 I’m looking for help with Backend & APIs<br>🌱 I’m currently learning Java<br>💬 Ask me about Techs<br>
 
 
 ## 🌐 Socials:
